@@ -44,9 +44,10 @@ h3{
 .footer-nav{
   text-align: left;
   background-color: dimgray;
+  color: white;
+  font-size: 11px;
 }
 
-.footer-nav p{
+.footer-nav a{
   color: white;
-  font-size: 11px
 }
