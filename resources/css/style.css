@@ -7,6 +7,7 @@ body{
 .new-york{
   background-image: url("../images/flatiron.png");
   background-position: center;
+  background-repeat: no-repeat;
 
 }
 
