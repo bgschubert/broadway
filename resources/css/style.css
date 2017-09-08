@@ -6,6 +6,8 @@ body{
 .header,
 .new-york{
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-position: center;
+
 }
 
 .header h1,
@@ -18,7 +20,7 @@ h1{
   font-size: 70px;
 }
 
-.header p{
+.header a{
   font-size: 18px;
 }
 
